@@ -1,4 +1,4 @@
-const appId = "7c176e4cc13ee6753dae8bd52a43e673";
+const appId = 
 const appUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 let weatherDetails=document.querySelector(".weather-details");
